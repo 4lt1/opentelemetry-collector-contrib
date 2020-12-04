@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/containerd/containerd v1.4.0 // indirect
-	github.com/shirou/gopsutil v3.20.10+incompatible
+	github.com/shirou/gopsutil v3.20.11+incompatible
 	github.com/stretchr/testify v1.6.1
 	github.com/testcontainers/testcontainers-go v0.8.0
 	go.opentelemetry.io/collector v0.16.0
